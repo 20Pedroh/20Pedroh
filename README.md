@@ -4,15 +4,6 @@
 
 Software Developer focused on scalable back-end applications, APIs, cloud solutions, and system integrations.
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/20Pedroh/20Pedroh/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/20Pedroh/20Pedroh/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 ---
 
 ## 🧠 About Me
