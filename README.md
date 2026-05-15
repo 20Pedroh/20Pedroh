@@ -51,18 +51,6 @@
 
 ---
 
-# 💼 Experience
-
-### 🚀 Junior Software Developer — Transsat (2023 → 2025)
-
-- RESTful & gRPC APIs
-- Back-end systems with PHP, Rust & Node.js
-- AWS deployment & integrations
-- MySQL, PostgreSQL & Redis
-- Laravel & JavaScript applications
-
----
-
 # 🔥 Contribution Streak
 
 <div align="center">
