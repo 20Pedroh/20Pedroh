@@ -1,91 +1,92 @@
-# 👋 Hello, I'm Pedro
+<div align="center">
 
-## 🚀 Back-end & Full Stack Developer
+# 👨‍💻 Pedro Henrique
 
-Software Developer focused on scalable back-end applications, APIs, cloud solutions, and system integrations.
+### Back-end • Full Stack • Cloud Engineering
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=700&lines=Scalable+Back-end+Developer;APIs+%7C+Cloud+%7C+Microservices;PHP+%7C+Python+%7C+Rust+%7C+Node.js" />
 
-## 🧠 About Me
+<br>
 
-- 💻 Back-end Developer with experience in PHP, Python, Node.js, and Rust
-- 🔌 Experience with RESTful APIs and gRPC architectures
-- ☁️ AWS cloud deployment and integration
-- 🗄️ Experience with MySQL, PostgreSQL, and Redis
-- 🌎 Advanced English
-- 📚 Postgraduate studies in:
-  - Software Engineering
-  - Multiplatform Application Development
+<a href="https://www.linkedin.com/in/20pedrohr/">
+  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:20pedroh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=4169E1"/>
+</a>
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
 
 ---
 
-### Back-end
+# 📊 GitHub Analytics
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
+<div align="center">
 
----
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=20Pedroh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF"/>
 
-### Frameworks & Tools
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20Pedroh&theme=tokyonight"/>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
 
 ---
 
-### Databases
+# 🚀 Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=php,python,rust,nodejs,js,ts,laravel,aws,docker,mysql,postgres,redis,git,linux,vscode" />
 
-## 💼 Professional Experience
-
-### Junior Software Developer — Transsat (2023 – 2025)
-
-- Developed RESTful and gRPC APIs
-- Built scalable back-end solutions using PHP, Rust, and Node.js
-- Worked with Laravel and JavaScript applications
-- Integrated MySQL, PostgreSQL, and Redis
-- Assisted AWS deployment and maintenance
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ About Me
 
-![](https://github-readme-stats.vercel.app/api?username=20Pedroh&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=20Pedroh&layout=compact&theme=tokyonight)
+- 🚀 Back-end & Full Stack Developer
+- ☁️ Focused on scalable cloud applications
+- 🔌 APIs • Microservices • Distributed Systems
+- 🦀 Exploring high-performance systems with Rust
 
 ---
 
-## 🌌 3D Contribution Graph
+# 💼 Experience
+
+### 🚀 Junior Software Developer — Transsat (2023 → 2025)
+
+- RESTful & gRPC APIs
+- Back-end systems with PHP, Rust & Node.js
+- AWS deployment & integrations
+- MySQL, PostgreSQL & Redis
+- Laravel & JavaScript applications
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=20Pedroh&theme=tokyonight&hide_border=true&background=0D1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1"/>
+
+</div>
+
+---
+
+# 🌌 Contributions
+
+<div align="center">
 
 ![](./profile-3d-contrib/profile-night-view.svg)
 
----
-
-## 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/20pedrohr/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20pedroh@gmail.com)
+</div>
 
 ---
 
-⭐ Always learning and building scalable solutions.
+<div align="center">
+
+### ⭐ Building scalable and modern solutions.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=110&section=footer"/>
+
+</div>
