@@ -24,9 +24,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=20Pedroh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF"/>
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20Pedroh&theme=tokyonight"/>
+![](./github-metrics.svg)
 
 </div>
 
