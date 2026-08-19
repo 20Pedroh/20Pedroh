@@ -59,16 +59,6 @@
 
 ---
 
-# 🌌 Contributions
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-night-view.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Building scalable and modern solutions.
