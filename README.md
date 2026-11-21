@@ -21,7 +21,7 @@ Building ideas into software.
 </div>
 
 👨‍💻 About Me
-typescript
+```typescript
 const pedro = {
   name: "Pedro Henrique Rodrigues",
   role: "Full Stack Developer",
@@ -42,6 +42,7 @@ const pedro = {
 
   mindset: "Always learning, always building."
 };
+```
 
 
 
