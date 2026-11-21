@@ -25,20 +25,24 @@ typescript
 const pedro = {
   name: "Pedro Henrique Rodrigues",
   role: "Full Stack Developer",
+
   interests: [
     "Backend Engineering",
     "Scalable Applications",
     "Cloud Computing",
     "Software Architecture"
   ],
+
   technologies: {
     frontend: ["Next.js", "React", "TypeScript"],
     backend: ["Rust", ".NET", "Node.js"],
     database: ["PostgreSQL", "MySQL", "Redis"],
     tools: ["Git", "Docker", "Linux"]
   },
+
   mindset: "Always learning, always building."
 };
+
 
 
 I enjoy building software, exploring new technologies and turning complex ideas into practical solutions.
