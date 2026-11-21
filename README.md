@@ -1,68 +1,89 @@
 <div align="center">
 
-# 👨‍💻 Pedro Henrique
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080E1B,50:142747,100:2563EB&height=200&section=header&text=Pedro%20Henrique&fontSize=45&fontColor=F8FAFC&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering&descAlignY=60&descSize=16"/>
 
-### Back-end • Full Stack • Cloud Engineering
+Building ideas into software.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=700&lines=Scalable+Back-end+Developer;APIs+%7C+Cloud+%7C+Microservices;PHP+%7C+Python+%7C+Rust+%7C+Node.js" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+%7C+Frontend+%7C+Cloud;Building+modern+and+scalable+solutions;Always+learning.+Always+building."/>
 
-<br>
+<br/>
 
 <a href="https://www.linkedin.com/in/20pedrohr/">
-  <img src="https://img.shields.io/badge/LinkedIn-4169E1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:20pedroh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Email-142747?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
+</a>
+<a href="https://github.com/20Pedroh">
+<img src="https://img.shields.io/badge/GitHub-080E1B?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
 
 </div>
 
----
+👨‍💻 About Me
+typescript
+const pedro = {
+  name: "Pedro Henrique Rodrigues",
+  role: "Full Stack Developer",
+  interests: [
+    "Backend Engineering",
+    "Scalable Applications",
+    "Cloud Computing",
+    "Software Architecture"
+  ],
+  technologies: {
+    frontend: ["Next.js", "React", "TypeScript"],
+    backend: ["Rust", ".NET", "Node.js"],
+    database: ["PostgreSQL", "MySQL", "Redis"],
+    tools: ["Git", "Docker", "Linux"]
+  },
+  mindset: "Always learning, always building."
+};
 
-# 📊 GitHub Analytics
+
+I enjoy building software, exploring new technologies and turning complex ideas into practical solutions.
+
+⚡ Tech Stack
 
 <div align="center">
 
-![](./github-metrics.svg)
+Frontend
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css"/>
+
+Backend
+
+<img src="https://skillicons.dev/icons?i=rust,cs,dotnet,nodejs,php,python"/>
+
+Database & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,linux,git"/>
 
 </div>
 
----
-
-# 🚀 Tech Stack
+📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,python,rust,nodejs,js,ts,laravel,aws,docker,mysql,postgres,redis,git,linux,vscode" />
+<img src="./github-metrics.svg" width="100%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=20Pedroh&theme=transparent&hide_border=true&background=080E1B&ring=2563EB&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" width="90%"/>
 
 </div>
 
----
-
-# ⚡ About Me
-
-- 🚀 Back-end & Full Stack Developer
-- ☁️ Focused on scalable cloud applications
-- 🔌 APIs • Microservices • Distributed Systems
-- 🦀 Exploring high-performance systems with Rust
-
----
-
-# 🔥 Contribution Streak
+🎯 What I'm Focused On
+Building modern and scalable applications.
+Improving my backend engineering skills.
+Exploring Rust and high-performance systems.
+Developing full stack applications with Next.js.
+Learning more about cloud infrastructure and software architecture.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=20Pedroh&theme=tokyonight&hide_border=true&background=0D1117&ring=4169E1&fire=4169E1&currStreakLabel=4169E1"/>
+Building with purpose. Growing with every project.
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building scalable and modern solutions.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142747,100:080E1B&height=120&section=footer"/>
 
 </div>
